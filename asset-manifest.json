@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/masterthesis-nerf_mv/static/css/main.c76a7ef6.css",
-    "main.js": "/masterthesis-nerf_mv/static/js/main.400c7f6f.js",
+    "main.js": "/masterthesis-nerf_mv/static/js/main.df2d793d.js",
     "static/js/787.db0191db.chunk.js": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js",
     "static/media/instant-ngp_framework.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp_framework.79bfa7690888f8dce519.mp4",
     "static/media/training-in-ngp.mp4": "/masterthesis-nerf_mv/static/media/training-in-ngp.956de309997e971f7c71.mp4",
@@ -21,11 +21,11 @@
     "static/media/TitilliumWeb-ExtraLight.ttf": "/masterthesis-nerf_mv/static/media/TitilliumWeb-ExtraLight.2d07e99a2247f13f7969.ttf",
     "index.html": "/masterthesis-nerf_mv/index.html",
     "main.c76a7ef6.css.map": "/masterthesis-nerf_mv/static/css/main.c76a7ef6.css.map",
-    "main.400c7f6f.js.map": "/masterthesis-nerf_mv/static/js/main.400c7f6f.js.map",
+    "main.df2d793d.js.map": "/masterthesis-nerf_mv/static/js/main.df2d793d.js.map",
     "787.db0191db.chunk.js.map": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c76a7ef6.css",
-    "static/js/main.400c7f6f.js"
+    "static/js/main.df2d793d.js"
   ]
 }
