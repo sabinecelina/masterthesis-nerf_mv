@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/masterthesis-nerf_mv/static/css/main.c76a7ef6.css",
-    "main.js": "/masterthesis-nerf_mv/static/js/main.48c94faf.js",
+    "main.css": "/masterthesis-nerf_mv/static/css/main.2415366b.css",
+    "main.js": "/masterthesis-nerf_mv/static/js/main.ccd34c08.js",
     "static/js/787.db0191db.chunk.js": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js",
     "static/media/instant-ngp-vr-02.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp-vr-02.10f7b3b4151464d9f94c.mp4",
-    "static/media/instant-ngp_framework.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp_framework.79bfa7690888f8dce519.mp4",
+    "static/media/torch_ngp_cuda.mp4": "/masterthesis-nerf_mv/static/media/torch_ngp_cuda.f746c889a663bbe46f0e.mp4",
+    "static/media/instant-ngp_framework.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp_framework.287787fe0603f43b6aab.mp4",
+    "static/media/torchngp_no_cuda.mp4": "/masterthesis-nerf_mv/static/media/torchngp_no_cuda.cf3044257e9808175766.mp4",
     "static/media/training-in-ngp.mp4": "/masterthesis-nerf_mv/static/media/training-in-ngp.956de309997e971f7c71.mp4",
     "static/media/PXL_sonne_video.mp4": "/masterthesis-nerf_mv/static/media/PXL_sonne_video.d34ecc903d6992e794b1.mp4",
     "static/media/point_cloud_cone.gif": "/masterthesis-nerf_mv/static/media/point_cloud_cone.956597e7ebe2f3812e4a.gif",
@@ -34,12 +36,12 @@
     "static/media/TitilliumWeb-Regular.ttf": "/masterthesis-nerf_mv/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
     "static/media/TitilliumWeb-ExtraLight.ttf": "/masterthesis-nerf_mv/static/media/TitilliumWeb-ExtraLight.2d07e99a2247f13f7969.ttf",
     "index.html": "/masterthesis-nerf_mv/index.html",
-    "main.c76a7ef6.css.map": "/masterthesis-nerf_mv/static/css/main.c76a7ef6.css.map",
-    "main.48c94faf.js.map": "/masterthesis-nerf_mv/static/js/main.48c94faf.js.map",
+    "main.2415366b.css.map": "/masterthesis-nerf_mv/static/css/main.2415366b.css.map",
+    "main.ccd34c08.js.map": "/masterthesis-nerf_mv/static/js/main.ccd34c08.js.map",
     "787.db0191db.chunk.js.map": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c76a7ef6.css",
-    "static/js/main.48c94faf.js"
+    "static/css/main.2415366b.css",
+    "static/js/main.ccd34c08.js"
   ]
 }
