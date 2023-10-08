@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/masterthesis-nerf_mv/static/css/main.c76a7ef6.css",
-    "main.js": "/masterthesis-nerf_mv/static/js/main.8374e412.js",
+    "main.js": "/masterthesis-nerf_mv/static/js/main.48c94faf.js",
     "static/js/787.db0191db.chunk.js": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js",
     "static/media/instant-ngp-vr-02.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp-vr-02.10f7b3b4151464d9f94c.mp4",
     "static/media/instant-ngp_framework.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp_framework.79bfa7690888f8dce519.mp4",
@@ -12,6 +12,7 @@
     "static/media/VID_i_Bau.mp4": "/masterthesis-nerf_mv/static/media/VID_i_Bau.f550cd0fd40702881b33.mp4",
     "static/media/VID_Showroom.mp4": "/masterthesis-nerf_mv/static/media/VID_Showroom.e560726753f7a1aede81.mp4",
     "static/media/VID_office.mp4": "/masterthesis-nerf_mv/static/media/VID_office.db9af1062b61b80511a1.mp4",
+    "static/media/Webseite.mp4": "/masterthesis-nerf_mv/static/media/Webseite.7655ad184a6d2fb212dd.mp4",
     "static/media/video-bank.mp4": "/masterthesis-nerf_mv/static/media/video-bank.f09f2a7fef9c93a9246d.mp4",
     "static/media/point_cloud_gifs.gif": "/masterthesis-nerf_mv/static/media/point_cloud_gifs.338a42340ff3ee84b69b.gif",
     "static/media/video-plants.mp4": "/masterthesis-nerf_mv/static/media/video-plants.8d909191af702e6aaf37.mp4",
@@ -34,11 +35,11 @@
     "static/media/TitilliumWeb-ExtraLight.ttf": "/masterthesis-nerf_mv/static/media/TitilliumWeb-ExtraLight.2d07e99a2247f13f7969.ttf",
     "index.html": "/masterthesis-nerf_mv/index.html",
     "main.c76a7ef6.css.map": "/masterthesis-nerf_mv/static/css/main.c76a7ef6.css.map",
-    "main.8374e412.js.map": "/masterthesis-nerf_mv/static/js/main.8374e412.js.map",
+    "main.48c94faf.js.map": "/masterthesis-nerf_mv/static/js/main.48c94faf.js.map",
     "787.db0191db.chunk.js.map": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c76a7ef6.css",
-    "static/js/main.8374e412.js"
+    "static/js/main.48c94faf.js"
   ]
 }
