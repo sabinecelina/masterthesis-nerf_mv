@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/masterthesis-nerf_mv/static/css/main.2415366b.css",
-    "main.js": "/masterthesis-nerf_mv/static/js/main.53fd6b93.js",
+    "main.js": "/masterthesis-nerf_mv/static/js/main.78bbcb1b.js",
     "static/js/787.db0191db.chunk.js": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js",
     "static/media/instant-ngp_framework.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp_framework.cade4367acb749988da2.mp4",
     "static/media/torch_ngp_cuda.mp4": "/masterthesis-nerf_mv/static/media/torch_ngp_cuda.123f2803699db89c46c5.mp4",
@@ -23,6 +23,7 @@
     "static/media/Masterthesis_NeRF_compressed.pdf": "/masterthesis-nerf_mv/static/media/Masterthesis_NeRF_compressed.49f8a7effe7b52abf966.pdf",
     "static/media/luma_ai_largeScene.mp4": "/masterthesis-nerf_mv/static/media/luma_ai_largeScene.7a8ef48d154222019d3f.mp4",
     "static/media/VID_CAD.mp4": "/masterthesis-nerf_mv/static/media/VID_CAD.9d6973c14a1bfad32976.mp4",
+    "static/media/nerf-trainer.gif": "/masterthesis-nerf_mv/static/media/nerf-trainer.9f1547194cd91fe23684.gif",
     "static/media/VID_plarndt.mp4": "/masterthesis-nerf_mv/static/media/VID_plarndt.2f0c7f8970782a8f5d43.mp4",
     "static/media/VID_Traktor.mp4": "/masterthesis-nerf_mv/static/media/VID_Traktor.6de5a8cf92f7d6d71f46.mp4",
     "static/media/LumaAi_Sensor.mp4": "/masterthesis-nerf_mv/static/media/LumaAi_Sensor.556be8edbbcfffb72e98.mp4",
@@ -38,11 +39,11 @@
     "static/media/TitilliumWeb-ExtraLight.ttf": "/masterthesis-nerf_mv/static/media/TitilliumWeb-ExtraLight.2d07e99a2247f13f7969.ttf",
     "index.html": "/masterthesis-nerf_mv/index.html",
     "main.2415366b.css.map": "/masterthesis-nerf_mv/static/css/main.2415366b.css.map",
-    "main.53fd6b93.js.map": "/masterthesis-nerf_mv/static/js/main.53fd6b93.js.map",
+    "main.78bbcb1b.js.map": "/masterthesis-nerf_mv/static/js/main.78bbcb1b.js.map",
     "787.db0191db.chunk.js.map": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2415366b.css",
-    "static/js/main.53fd6b93.js"
+    "static/js/main.78bbcb1b.js"
   ]
 }
