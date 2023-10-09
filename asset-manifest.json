@@ -1,12 +1,11 @@
 {
   "files": {
     "main.css": "/masterthesis-nerf_mv/static/css/main.2415366b.css",
-    "main.js": "/masterthesis-nerf_mv/static/js/main.bcf24eff.js",
+    "main.js": "/masterthesis-nerf_mv/static/js/main.652fef26.js",
     "static/js/787.db0191db.chunk.js": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js",
-    "static/media/instant-ngp-vr-02.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp-vr-02.10f7b3b4151464d9f94c.mp4",
-    "static/media/Masterthesis_NeRF.pdf": "/masterthesis-nerf_mv/static/media/Masterthesis_NeRF.820fe58e4f3f8dab941c.pdf",
     "static/media/instant-ngp_framework.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp_framework.cade4367acb749988da2.mp4",
     "static/media/torch_ngp_cuda.mp4": "/masterthesis-nerf_mv/static/media/torch_ngp_cuda.123f2803699db89c46c5.mp4",
+    "static/media/instant-ngp-vr-02.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp-vr-02.b04ee3c0c3530b9c3a5a.mp4",
     "static/media/torchngp_no_cuda.mp4": "/masterthesis-nerf_mv/static/media/torchngp_no_cuda.654ff41905fb6b4c9722.mp4",
     "static/media/training-in-ngp.mp4": "/masterthesis-nerf_mv/static/media/training-in-ngp.956de309997e971f7c71.mp4",
     "static/media/PXL_sonne_video.mp4": "/masterthesis-nerf_mv/static/media/PXL_sonne_video.d34ecc903d6992e794b1.mp4",
@@ -21,6 +20,7 @@
     "static/media/video-plants.mp4": "/masterthesis-nerf_mv/static/media/video-plants.8d909191af702e6aaf37.mp4",
     "static/media/VID_Brunnen.mp4": "/masterthesis-nerf_mv/static/media/VID_Brunnen.218814e6c0dccd7990ae.mp4",
     "static/media/hand-nerf.mp4": "/masterthesis-nerf_mv/static/media/hand-nerf.20c0cfe6805ec976b151.mp4",
+    "static/media/Masterthesis_NeRF_compressed.pdf": "/masterthesis-nerf_mv/static/media/Masterthesis_NeRF_compressed.49f8a7effe7b52abf966.pdf",
     "static/media/luma_ai_largeScene.mp4": "/masterthesis-nerf_mv/static/media/luma_ai_largeScene.7a8ef48d154222019d3f.mp4",
     "static/media/VID_CAD.mp4": "/masterthesis-nerf_mv/static/media/VID_CAD.9d6973c14a1bfad32976.mp4",
     "static/media/VID_plarndt.mp4": "/masterthesis-nerf_mv/static/media/VID_plarndt.2f0c7f8970782a8f5d43.mp4",
@@ -38,11 +38,11 @@
     "static/media/TitilliumWeb-ExtraLight.ttf": "/masterthesis-nerf_mv/static/media/TitilliumWeb-ExtraLight.2d07e99a2247f13f7969.ttf",
     "index.html": "/masterthesis-nerf_mv/index.html",
     "main.2415366b.css.map": "/masterthesis-nerf_mv/static/css/main.2415366b.css.map",
-    "main.bcf24eff.js.map": "/masterthesis-nerf_mv/static/js/main.bcf24eff.js.map",
+    "main.652fef26.js.map": "/masterthesis-nerf_mv/static/js/main.652fef26.js.map",
     "787.db0191db.chunk.js.map": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2415366b.css",
-    "static/js/main.bcf24eff.js"
+    "static/js/main.652fef26.js"
   ]
 }
