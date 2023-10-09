@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/masterthesis-nerf_mv/static/css/main.2415366b.css",
-    "main.js": "/masterthesis-nerf_mv/static/js/main.652fef26.js",
+    "main.js": "/masterthesis-nerf_mv/static/js/main.7b3f3ea1.js",
     "static/js/787.db0191db.chunk.js": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js",
     "static/media/instant-ngp_framework.mp4": "/masterthesis-nerf_mv/static/media/instant-ngp_framework.cade4367acb749988da2.mp4",
     "static/media/torch_ngp_cuda.mp4": "/masterthesis-nerf_mv/static/media/torch_ngp_cuda.123f2803699db89c46c5.mp4",
@@ -38,11 +38,11 @@
     "static/media/TitilliumWeb-ExtraLight.ttf": "/masterthesis-nerf_mv/static/media/TitilliumWeb-ExtraLight.2d07e99a2247f13f7969.ttf",
     "index.html": "/masterthesis-nerf_mv/index.html",
     "main.2415366b.css.map": "/masterthesis-nerf_mv/static/css/main.2415366b.css.map",
-    "main.652fef26.js.map": "/masterthesis-nerf_mv/static/js/main.652fef26.js.map",
+    "main.7b3f3ea1.js.map": "/masterthesis-nerf_mv/static/js/main.7b3f3ea1.js.map",
     "787.db0191db.chunk.js.map": "/masterthesis-nerf_mv/static/js/787.db0191db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2415366b.css",
-    "static/js/main.652fef26.js"
+    "static/js/main.7b3f3ea1.js"
   ]
 }
